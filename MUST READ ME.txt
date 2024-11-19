@@ -1,0 +1,33 @@
+*************  GAME PROVIDED BY REPACK-GAMES.COM  JOIN OUR DISCORD: https://discord.com/invite/hABeN9vDMp  *************
+
+ALL OUR GAMES ARE PRE-INSTALLED GAMES! YOU JUST NEED TO EXTRACT AND RUN IT.
+
+YOU MUST TURN OFF YOUR ANTIVIRUS AND/OR WINDOWS DEFENDER BEFORE YOU EXTRACT THE GAME. OTHERWISE IT WILL DELETE THE CRACK FILES (THEN YOU HAVE TO EXTRACT THE .RAR FILE AGAIN)
+
+If you have issues with the game running, you need to install the following prerequisites:
+
+1. All-In-One (AIO) Runtime. This installs the Microsoft Visual C++ Libraries needed to run games. You can download it here: https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/    Download, extract and run the "install_all.bat" file
+
+2. Make sure your DirectX is fully updated. Run the dxwebsetup.exe included in the folder or if you want to be safe you can download that from here: https://www.microsoft.com/en-us/download/details.aspx?id=35
+
+3. Microsoft XNA Framework. You can download that from here: https://www.microsoft.com/en-us/download/details.aspx?id=20914
+
+4. Run UE4Prerequisite from ( ASTRONEER\Engine\Extras\Redist\en-us )
+
+REMEMBER TO RUN ALL GAMES AS ADMINISTRATOR. SOME GAMES WON'T RUN OR SAVE PROPERLY OTHERWISE.
+
+WINDOWS DEFENDER EXCLUSION SETUP ( to prevent it from deleting files. )
+Make a GAMES folder on your Hard drive.
+Go to Windows Security ( Shield Icon on taskbar ). Go to virus & threat protection > manage settings > scroll down to exclusions, click "add or remove exclusions" & add the GAMES folder to the list.
+ Once thats been done ALWAYS extract your game into that GAMES folder. Your antivirus will never be able to touch anything in that folder or whats in it.
+
+
+=====================================================================================================================================================================
+IF YOU NEED ANY HELP WITH THE ABOVE, OR YOU STILL FACE ISSUES GETTING THE GAME TO RUN, JOIN OUR DISCORD AND THE STAFF WILL HELP YOU!  ====> https://discord.com/invite/hABeN9vDMp
+=====================================================================================================================================================================
+
+
+*************  GAME PROVIDED BY REPACK-GAMES.COM  JOIN OUR DISCORD: https://discord.gg/hABeN9vDMp	*************
+
+
+
